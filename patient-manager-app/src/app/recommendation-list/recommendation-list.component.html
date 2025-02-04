@@ -1,0 +1,97 @@
+<div [className]="'recommendation-list-section'">
+  <h2>Recommendations</h2>
+  <div [className]="'patient-info'">
+    @if(patient)
+    {
+      <div>
+        <span>Patient Id: </span>
+        <span>{{patient.id}}</span>
+      </div>
+      <div>
+        <span>Patient Name: </span>
+        <span>{{patient.name}}</span>
+      </div>
+    }
+    @else if(loadingMask > 2)
+    {
+      <span [className]="'message'">Couldn't find the patient data.</span>
+    }
+  </div>
+  <div [className]="'action-bar'">
+    <button
+      [className]="'button'"
+      [routerLink]="addUrl"
+    >
+      New Recommendation
+    </button>
+    <select
+      name="searchType"
+      [className]="'combo-box'"
+      [value]="searchType"
+      (change)="onChange($event)"
+    >
+      @for(st of searchTypeList; track st)
+      {
+        <option
+          [value]="st"
+          [selected]="isSearchTypeSelected(st)"
+        >
+          {{st}}
+        </option>
+      }
+    </select>
+    <button
+      [className]="'button'"
+      (click)="onSearchButtonClick($event)"
+    >
+      Search
+    </button>
+  </div>
+  <div [className]="'recommendation-list'">
+    @if(loadingMask > 2)
+    {
+      @for(r of recommendationList; track r.id)
+      {
+        <app-recommendation-list-item
+          [recommendation]=r
+          (onAction)="refresh($event)"></app-recommendation-list-item>
+      }
+      @empty
+      {
+        <span [className]="'message'">Couldn't find any recommendation.</span>
+      }
+    }
+    @else
+    {
+      <img src="loading.gif" alt="Loading"/>
+    }
+  </div>
+  @if(pageNameList.length > 1)
+  {
+    <div [className]="'page-area'">
+    @for(pn of pageNameList; track pn)
+    {
+      @if(isCurrentPage(pn))
+      {
+        <button
+          disabled
+          [name]="pn"
+          [className]="'button'"
+        >
+          {{pn}}
+        </button>
+      }
+      @else
+      {
+        <button
+          [name]="pn"
+          [className]="'button'"
+          (click)="onPageButtonClick($event)"
+        >
+          {{pn}}
+        </button>
+      }
+    }
+    </div>
+  }
+</div>

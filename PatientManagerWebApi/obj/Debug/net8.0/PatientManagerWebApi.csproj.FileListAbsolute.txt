@@ -1,0 +1,223 @@
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/appsettings.Development.json
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/appsettings.json
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/PatientManagerWebApi
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/PatientManagerWebApi.deps.json
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/PatientManagerWebApi.runtimeconfig.json
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/PatientManagerWebApi.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/PatientManagerWebApi.pdb
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/PatientManagerWebApi.csproj.AssemblyReference.cache
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/PatientManagerWebApi.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/PatientManagerWebApi.AssemblyInfoInputs.cache
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/PatientManagerWebApi.AssemblyInfo.cs
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/PatientManagerWebApi.csproj.CoreCompileInputs.cache
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/PatientManagerWebApi.MvcApplicationPartsAssemblyInfo.cs
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/PatientManagerWebApi.MvcApplicationPartsAssemblyInfo.cache
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/staticwebassets.build.json
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/staticwebassets.development.json
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/staticwebassets/msbuild.PatientManagerWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/staticwebassets/msbuild.build.PatientManagerWebApi.props
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.PatientManagerWebApi.props
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.PatientManagerWebApi.props
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/staticwebassets.pack.json
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/scopedcss/bundle/PatientManagerWebApi.styles.css
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/PatientManagerWebApi.csproj.CopyComplete
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/PatientManagerWebApi.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/refint/PatientManagerWebApi.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/PatientManagerWebApi.pdb
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/PatientManagerWebApi.genruntimeconfig.cache
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/ref/PatientManagerWebApi.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Humanizer.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Mono.TextTemplating.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Npgsql.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/System.CodeDom.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/System.Composition.Convention.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/System.Composition.Hosting.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/System.Composition.Runtime.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/C Sharp (Web)/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/appsettings.Development.json
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/appsettings.json
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/PatientManagerWebApi
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/PatientManagerWebApi.deps.json
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/PatientManagerWebApi.runtimeconfig.json
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/PatientManagerWebApi.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/PatientManagerWebApi.pdb
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Humanizer.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Mono.TextTemplating.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Npgsql.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/System.CodeDom.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/System.Composition.Convention.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/System.Composition.Hosting.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/System.Composition.Runtime.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/PatientManagerWebApi.csproj.AssemblyReference.cache
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/PatientManagerWebApi.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/PatientManagerWebApi.AssemblyInfoInputs.cache
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/PatientManagerWebApi.AssemblyInfo.cs
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/PatientManagerWebApi.csproj.CoreCompileInputs.cache
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/PatientManagerWebApi.MvcApplicationPartsAssemblyInfo.cs
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/PatientManagerWebApi.MvcApplicationPartsAssemblyInfo.cache
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/PatientManagerWebApi.sourcelink.json
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/staticwebassets.build.json
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/staticwebassets.development.json
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/staticwebassets/msbuild.PatientManagerWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/staticwebassets/msbuild.build.PatientManagerWebApi.props
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.PatientManagerWebApi.props
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.PatientManagerWebApi.props
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/staticwebassets.pack.json
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/scopedcss/bundle/PatientManagerWebApi.styles.css
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/PatientManagerWebApi.csproj.CopyComplete
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/PatientManagerWebApi.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/refint/PatientManagerWebApi.dll
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/PatientManagerWebApi.pdb
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/PatientManagerWebApi.genruntimeconfig.cache
+/run/media/biorobot/EXT4/IDEs Projects/Git/PatientManager/PatientManagerWebApi/obj/Debug/net8.0/ref/PatientManagerWebApi.dll

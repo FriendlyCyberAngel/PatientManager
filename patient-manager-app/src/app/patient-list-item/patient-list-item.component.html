@@ -1,0 +1,47 @@
+<div [className]="'patient-list-item'">
+  @if(patient)
+  {
+    <div>
+      <h3>{{patient.name}}</h3>
+      <button
+        [routerLink]="searchUrl"
+        [className]="'light-button'"
+      >
+        Check Recommendations
+      </button>
+      <button
+        [routerLink]="editUrl"
+        [className]="'light-button'"
+      >
+        Edit Patient
+      </button>
+      <button
+        (click)="onRemovePatientButtonClick($event)"
+        [className]="'light-button'"
+      >
+        Remove Patient
+      </button>
+    </div>
+    <div>
+      <span>Id: </span>
+      <span>{{patient.id}}</span>
+    </div>
+    <div>
+      <span>Birthdate: </span>
+      <span>{{patient.birthdate}}</span>
+    </div>
+    <div>
+      <span>PhoneNumber: </span>
+      <span>{{patient.phoneNumber}}</span>
+    </div>
+    <div>
+      <span>Email: </span>
+      <span>{{patient.email}}</span>
+    </div>
+  }
+  @else
+  {
+    <span>No data in this item.</span>
+  }
+</div>
+  

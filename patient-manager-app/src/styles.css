@@ -1,0 +1,119 @@
+/* You can add global styles to this file, and also import other style files */
+body
+{
+  min-width: 600px;
+
+  margin: 0;
+  margin-left: 220px;
+  margin-right: 220px;
+
+  color: #202428;
+  background-color: #606468;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-host
+{
+  margin-top: auto;
+}
+
+.textfield
+{
+  height: 26px;
+
+  outline-color: #282C30;
+  background-color: #80C8F8;
+  border-color: #3088D0;
+
+  border-style: solid;
+  border-radius: 0;
+  border-width: 1px;
+}
+
+.button, .light-button, .combo-box
+{
+  height: 30px;
+  cursor: pointer;
+
+  color: #F7FBFF;
+
+  outline: 0;
+  border: 0;
+
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.button, .combo-box
+{
+  background-color: #282C30;
+}
+
+.light-button
+{
+  background-color: #686C70;
+}
+
+.button:hover, .light-button:hover, .combo-box:hover
+{
+  background-color: #50B0F8;
+}
+
+
+.button[disabled]
+{
+  color: #3088D0;
+  background-color: #282C30;
+
+  cursor: default;
+}
+
+.button[disabled]:hover
+{
+  color: #3088D0;
+  background-color: #282C30;
+}
+
+.checkbox
+{
+  height: 26px;
+  width: 50px;
+  cursor: pointer;
+
+  display: flex;
+  flex-direction: column;
+  
+  background-color: #80C8F8;
+  border-color: #3088D0;
+
+  border-width: 1px;
+  border-style: solid;
+
+  padding: 1px;
+}
+
+.checkbox input
+{
+  appearance: none;
+  cursor: pointer;
+  background-color: #E01028;
+  border-color: #3088D0;
+  
+  width: 20px;
+  height: 20px;
+
+  outline: 0;
+  border-width: 1px;
+  border-style: solid;
+
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.checkbox input:checked
+{
+  margin-left: auto;
+  background-color: #30E030;
+}

@@ -1,0 +1,50 @@
+<div [className]="'recommendation-form-section'">
+    <form>
+      <h2>{{formTitle}}</h2>
+      <div [className]="'field-area'">
+        <span>Description:</span>
+        <input
+          name="description"
+          type="text"
+          placeholder="Recommendation Description"
+          [className]="'textfield'"
+          [value]="recommendation.description"
+          (input)="onInput($event)"
+        />
+      </div>
+      <div [className]="'field-area'">
+        <span>Completed:</span>
+        <label for="completed" [className]="'checkbox'">
+          <input
+            id="completed"
+            name="completed"
+            type="checkbox"
+            [checked]="recommendation.completed"
+            (input)="onCheckboxInput($event)"
+          />
+        </label>
+      </div>
+      <div [className]="'action-area'">
+        <button
+          type="submit"
+          [className]="'light-button'"
+          (click)="onConfirmButtonClick($event)"
+        >
+          Confirm
+        </button>
+        <button
+          [className]="'light-button'"
+          (click)="onCancelButtonClick($event)"
+          >
+          Cancel
+        </button>
+      </div>
+      @if(errorMessage || inactiveMessage)
+      {
+        <div [className]="'error-message'">
+          {{errorMessage}}
+          {{inactiveMessage}}
+        </div>
+      }
+    </form>
+  </div>

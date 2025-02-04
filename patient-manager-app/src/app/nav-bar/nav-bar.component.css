@@ -1,0 +1,40 @@
+.nav-bar
+{
+  margin: 0;
+  height: 60px;
+
+  background-color: #50B0F8;
+  color: #F7FBFF;
+
+  display: flex;
+  flex-direction: row;
+}
+
+.nav-bar div
+{
+  margin-left: auto;
+}
+
+.nav-bar button
+{
+  height: 100%;
+  cursor: pointer;
+
+  background-color: transparent;
+  color: #F7FBFF;
+
+  padding-left: 16px;
+  padding-right: 16px;
+
+  border: 0;
+  outline: 0;
+  font-size: 1.5em;
+}
+
+.nav-bar button:hover
+{
+  background-color: #1070B0;
+
+  border: 0;
+  font-size: 1.5em;
+}

@@ -1,0 +1,41 @@
+.patient-list-item
+{
+  outline: 0;
+  padding: 8px;
+}
+
+.patient-list-item:hover
+{
+  background: #282C30;
+  color: #F7FBFF;
+}
+
+.patient-list-item div
+{
+  display: flex;
+  flex-direction: row;
+}
+
+.patient-list-item div h3
+{
+  margin: 0;
+  margin-top: 4px;
+  margin-bottom: 16px;
+}
+
+
+.patient-list-item div button:nth-child(2)
+{
+  margin-left: auto;
+}
+
+.patient-list-item div button:not(:last-child)
+{
+  margin-right: 16px;
+}
+
+.patient-list-item div span:first-child
+{
+  font-weight: bold;
+  margin-right: 4px;
+}

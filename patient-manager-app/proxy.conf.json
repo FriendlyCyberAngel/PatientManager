@@ -1,0 +1,8 @@
+{
+  "/proxy": {
+    "target": "https://localhost:5156",
+    "secure": true,
+    "pathRewrite": {"^/api": ""},
+    "changeOrigin": true
+  }
+}

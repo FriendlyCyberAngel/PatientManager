@@ -1,0 +1,49 @@
+.recommendation-list-item
+{
+  padding: 8px;
+}
+
+.recommendation-list-item h3
+{
+  margin: 0;
+  margin-top: 4px;
+  margin-bottom: 16px;
+}
+
+.recommendation-list-item:hover
+{
+  background: #282C30;
+  color: #F7FBFF;
+}
+
+.recommendation-list-item div 
+{
+  display: flex;
+  flex-direction: row;
+}
+
+.recommendation-list-item div span:first-child
+{
+  font-weight: bold;
+  margin-right: 4px;
+}
+
+.recommendation-list-item div .completed
+{
+  color: #30E030;
+}
+
+.recommendation-list-item div .incompleted
+{
+  color: #E01028;
+}
+
+.recommendation-list-item div button:nth-child(2)
+{
+  margin-left: auto;
+}
+
+.recommendation-list-item div button:not(:last-child)
+{
+  margin-right: 16px;
+}

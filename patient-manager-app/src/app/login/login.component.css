@@ -1,0 +1,58 @@
+.login-section
+{
+  padding: 40px;
+  background-color: #DFEFFF;
+}
+
+.login-section div
+{
+  background-color: #282C30;
+  color: #F7FBFF;
+
+  width: 300px;
+
+  padding: 20px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  margin-left: auto;
+  margin-right: auto;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.login-section div h2
+{
+  margin: 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+  text-align: center;
+}
+
+.login-section div span
+{
+  width: 206px;
+
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.login-section div input
+{
+  width: 200px;
+
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.login-section div button
+{
+  width: 206px;
+
+  margin-top: 10px;
+  margin-bottom: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}

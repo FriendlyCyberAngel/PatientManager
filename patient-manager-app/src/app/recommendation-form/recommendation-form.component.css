@@ -1,0 +1,62 @@
+.recommendation-form-section
+{
+  padding: 40px;
+  background-color: #DFEFFF;
+}
+
+.recommendation-form-section form
+{
+  background-color: #282C30;
+  color: #F7FBFF;
+
+  width: 400px;
+
+  padding: 20px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  margin-left: auto;
+  margin-right: auto;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.recommendation-form-section form h2
+{
+  margin: 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+  text-align: center;
+}
+
+.recommendation-form-section form .field-area
+{
+  display: flex;
+  flex-direction: column;
+
+  margin-bottom: 10px;
+}
+
+.recommendation-form-section form .action-area
+{
+  margin-top: 10px;
+  margin-bottom: 30px;
+
+  display: flex;
+  flex-direction: row;
+}
+
+.recommendation-form-section form .action-area button:first-child
+{
+  margin-left: auto;
+  margin-right: 20px;
+}
+
+.recommendation-form-section form .error-message
+{
+  color: #FF1028;
+  text-align: center;
+
+  margin-top: 10px;
+}

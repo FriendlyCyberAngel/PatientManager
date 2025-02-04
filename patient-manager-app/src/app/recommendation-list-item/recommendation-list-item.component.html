@@ -1,0 +1,41 @@
+<div [className]="'recommendation-list-item'">
+  @if(recommendation)
+  {
+    <div>
+      <h3 [className]="completedSpan.toLowerCase()">{{completedSpan}}</h3>
+      @if(recommendation)
+      {
+        <button
+          [className]="'light-button'"
+          (click)="onCompletedButtonClick()"
+        >
+          {{completedButtonLabel}}
+        </button>
+        <button
+          [className]="'light-button'"
+          [routerLink]="editUrl"
+        >
+          Edit
+        </button>
+        <button
+          [className]="'light-button'"
+          (click)="onRemoveButtonClick()"
+        >
+          Remove
+        </button>
+      }
+    </div>
+    <div>
+      <span>Id: </span>
+      <span>{{recommendation.id}}</span>
+    </div>
+    <div>
+      <span>Description: </span>
+      <span>{{recommendation.description}}</span>
+    </div>
+  }
+  @else
+  {
+    <span>No data in this item.</span>
+  }
+</div>

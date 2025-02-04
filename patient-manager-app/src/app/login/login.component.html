@@ -1,0 +1,29 @@
+<div [className]="'login-section'">
+  <div>
+    <h2>Login</h2>
+    <span>User Login:</span>
+    <input
+      name="login"
+      type="text"
+      placeholder="Login"
+      [className]="'textfield'"
+      [value]="login"
+      (input)="onInput($event)"
+    />
+    <span>Password:</span>
+    <input
+      name="password"
+      type="password"
+      placeholder="Password"
+      [className]="'textfield'"
+      [value]="password"
+      (input)="onInput($event)"
+    />
+    <button
+      [className]="'light-button'"
+      (click)="onLoginButtonClick($event)"
+    >
+      Login
+    </button>
+  </div>
+</div>

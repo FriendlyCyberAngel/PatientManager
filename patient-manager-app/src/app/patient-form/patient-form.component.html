@@ -1,0 +1,71 @@
+<div [className]="'patient-form-section'">
+  <form>
+    <h2>{{formTitle}}</h2>
+    <div [className]="'field-area'">
+      <span>Name:</span>
+      <input
+        name="name"
+        type="text"
+        placeholder="Patient Name"
+        [className]="'textfield'"
+        [value]="patient.name"
+        (input)="onInput($event)"
+      />
+    </div>
+    <div [className]="'field-area'">
+      <span>Birthdate:</span>
+      <input
+        name="birthdate"
+        type="text"
+        placeholder="YYYY-MM-DD"
+        [className]="'textfield'"
+        [value]="patient.birthdate"
+        (input)="onInput($event)"
+      />
+    </div>
+    <div [className]="'field-area'">
+      <span>Phone Number:</span>
+      <input
+        name="phoneNumber"
+        type="text"
+        placeholder="123-456-7890"
+        [className]="'textfield'"
+        [value]="patient.phoneNumber"
+        (input)="onInput($event)"
+      />
+    </div>
+    <div [className]="'field-area'">
+      <span>Email:</span>
+      <input
+        name="email"
+        type="text"
+        placeholder="user@provider.com"
+        [className]="'textfield'"
+        [value]="patient.email"
+        (input)="onInput($event)"
+      />
+    </div>
+    <div [className]="'action-area'">
+      <button
+        type="submit"
+        [className]="'light-button'"
+        (click)="onConfirmButtonClick($event)"
+      >
+        Confirm
+      </button>
+      <button
+        [className]="'light-button'"
+        (click)="onCancelButtonClick($event)"
+        >
+        Cancel
+      </button>
+    </div>
+    @if(errorMessage || inactiveMessage)
+    {
+      <div [className]="'error-message'">
+        {{errorMessage}}
+        {{inactiveMessage}}
+      </div>
+    }
+  </form>
+</div>

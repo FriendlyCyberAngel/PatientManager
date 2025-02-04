@@ -1,0 +1,90 @@
+<div [className]="'patient-list-section'">
+  <h2>Patients</h2>
+  <div [className]="'action-bar'">
+    <button
+      [className]="'button'"
+      routerLink="/patient/new"
+    >
+      New Patient
+    </button>
+    <input
+      name="searchData"
+      type="text"
+      placeholder="search"
+      [className]="'textfield'"
+      [value]="searchData"
+      (input)="onInput($event)"
+    />
+    <select
+      name="searchType"
+      [className]="'combo-box'"
+      [value]="searchType"
+      (change)="onChange($event)"
+    >
+      @for(st of searchTypeList; track st)
+      {
+        <option
+          [value]="st"
+          [selected]="isSearchTypeSelected(st)"
+        >
+          {{st}}
+        </option>
+      }
+    </select>
+    <button
+      [className]="'button'"
+      (click)="onSearchButtonClick($event)"
+    >
+      Search
+    </button>
+  </div>
+  <div [className]="'patient-list'">
+    @if(!isLoading)
+    {
+      @for(p of patientList; track p.id)
+      {
+        <app-patient-list-item
+          [patient]=p
+          (onAction)="refresh($event)"
+        >
+        </app-patient-list-item>
+      }
+      @empty
+      {
+        <span [className]="'message'">Couldn't find any patient.</span>
+      }
+    }
+    @else
+    {
+      <img src="loading.gif" alt="Loading"/>
+    }
+  </div>
+  @if(pageNameList.length > 1)
+  {
+    <div [className]="'page-area'">
+    @for(pn of pageNameList; track pn)
+    {
+      @if(isCurrentPage(pn))
+      {
+        <button
+          disabled
+          [name]="pn"
+          [className]="'button'"
+        >
+          {{pn}}
+        </button>
+      }
+      @else
+      {
+        <button
+          [name]="pn"
+          [className]="'button'"
+          (click)="onPageButtonClick($event)"
+        >
+          {{pn}}
+        </button>
+      }
+    }
+    </div>
+  }
+</div>
